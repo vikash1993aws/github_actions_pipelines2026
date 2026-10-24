@@ -1,0 +1,7 @@
+variable "vikashvar" {
+  
+}
+
+variable "vikashstorage" {
+  
+}
